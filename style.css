@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-  background-color: white;
+  background-color: #C2DEDC;
   max-width: 600px;
   margin: 100px auto;
   padding: 20px;
@@ -19,18 +19,23 @@ body {
 h1 {
   margin-top: 0;
   text-align: center;
+font-weight: 200;
 }
+label{
+  font-weight:540;
 
+}
 input {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   margin: 10px 0;
   width: 100%;
+  background-color: #f2f2f2;
 }
 
 button {
-  background-color: #af6a4c;
+  background-color: #116A7B;
   color: white;
   padding: 10px;
   border: none;
@@ -43,7 +48,7 @@ button {
 }
 
 button:hover {
-  background-color: #a07c52;
+  background-color: #3d858e;
 }
 
 #total {
